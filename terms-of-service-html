@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Felhasználási Feltételek - BakkerBot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Felhasználási Feltételek - BakkerBot</h1>
+        <p><strong>1. Általános Feltételek</strong><br>
+        A BakkerBot használatával elfogadod a jelen Felhasználási Feltételeket. A bot célja, hogy a Discord szervereken szórakoztató és hasznos funkciókat biztosítson.
+        </p>
+
+        <p><strong>2. Felelősség</strong><br>
+        A botot mindenki saját felelősségére használja. Az üzemeltetők nem vállalnak felelősséget az esetleges adatvesztésekért vagy hibákért.
+        </p>
+
+        <p><strong>3. Tiltott Tevékenységek</strong><br>
+        Tilos a botot bármilyen törvénytelen, káros vagy visszaélésszerű módon használni. Ez magában foglalja a spamelést, mások zaklatását és az adatvédelmi irányelvek megsértését.
+        </p>
+
+        <p><strong>4. Adatvédelem</strong><br>
+        A bot használata során személyes adatokat nem gyűjtünk. Az adatvédelmi irányelvek részletesebben a megfelelő szekcióban találhatóak.
+        </p>
+
+        <p><strong>5. Módosítások</strong><br>
+        Az üzemeltetők fenntartják a jogot, hogy a Felhasználási Feltételeket bármikor módosítsák. A módosításokról értesítést küldünk.
+        </p>
+
+        <div class="button-container">
+            <a href="index.html" class="button">Vissza a főoldalra</a>
+        </div>
+    </div>
+</body>
+</html>
