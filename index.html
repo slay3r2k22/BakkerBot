@@ -19,5 +19,21 @@
             <img src="uwu.png" alt="UwU">
         </div>
     </div>
+    
+    <script>
+    document.getElementById('uwu-pic').addEventListener('click', function() {
+        document.getElementById('video-container').style.display = 'flex';
+    });
+</script>
+
+<div id="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1" frameborder="0" allowfullscreen></iframe>
+    <button onclick="document.getElementById('video-container').style.display='none'">Close</button>
+</div>
+
+<div id="uwu-pic">
+    <img src="uwu.png" alt="UwU">
+</div>
+
 </body>
 </html>
